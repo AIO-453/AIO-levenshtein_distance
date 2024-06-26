@@ -2,7 +2,7 @@
  
 ## **1. Clone the repository**
 ```git
-git clone 
+git clone https://github.com/AIO-453/AIO-levenshtein_distance.git 
 ```
 
 ## **2. (Optional) Create and activate a virtual enviroment**
